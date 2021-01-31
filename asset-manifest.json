@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/SailuGitAccount/fortnite-cards.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/SailuGitAccount/fortnite-cards.git/static/js/main.c244ba89.chunk.js",
+    "main.js.map": "/SailuGitAccount/fortnite-cards.git/static/js/main.c244ba89.chunk.js.map",
+    "runtime-main.js": "/SailuGitAccount/fortnite-cards.git/static/js/runtime-main.a2953a32.js",
+    "runtime-main.js.map": "/SailuGitAccount/fortnite-cards.git/static/js/runtime-main.a2953a32.js.map",
+    "static/js/2.060b6c7c.chunk.js": "/SailuGitAccount/fortnite-cards.git/static/js/2.060b6c7c.chunk.js",
+    "static/js/2.060b6c7c.chunk.js.map": "/SailuGitAccount/fortnite-cards.git/static/js/2.060b6c7c.chunk.js.map",
+    "static/js/3.8ca2c3f4.chunk.js": "/SailuGitAccount/fortnite-cards.git/static/js/3.8ca2c3f4.chunk.js",
+    "static/js/3.8ca2c3f4.chunk.js.map": "/SailuGitAccount/fortnite-cards.git/static/js/3.8ca2c3f4.chunk.js.map",
+    "index.html": "/SailuGitAccount/fortnite-cards.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/SailuGitAccount/fortnite-cards.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.060b6c7c.chunk.js.LICENSE.txt": "/SailuGitAccount/fortnite-cards.git/static/js/2.060b6c7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SailuGitAccount/fortnite-cards.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2953a32.js",
+    "static/js/2.060b6c7c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c244ba89.chunk.js"
+  ]
+}
